@@ -1,6 +1,9 @@
 
 # INST377 Air Quality Web Application
 
+To access this app online use this link: inst377-aqi-project.vercel.app
+
+
 ## Project Description
 This web app displays real-time air quality data fetched from the OpenWeatherMap API and stores it in a Supabase database. The frontend is built with React and styled with modern CSS using flexbox and grid layouts. The app features three pages: Home, About, and History, all communicating with the backend through RESTful API endpoints.
 
