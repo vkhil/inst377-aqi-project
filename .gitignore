@@ -1,0 +1,19 @@
+# Node & React
+node_modules/
+npm-debug.log*
+yarn.lock
+.pnpm-debug.log*
+
+# Build output
+client/build/
+dist/
+server/dist/
+
+# Environment / secrets
+*.env
+*.env.*.local
+
+# macOS & editors
+.DS_Store
+.idea/
+.vscode/
